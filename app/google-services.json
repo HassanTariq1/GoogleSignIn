@@ -1,0 +1,45 @@
+{
+  "project_info": {
+    "project_number": "794720279345",
+    "firebase_url": "https://bfco-c64e0.firebaseio.com",
+    "project_id": "bfco-c64e0",
+    "storage_bucket": "bfco-c64e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794720279345:android:23e4b11a51e56214",
+        "android_client_info": {
+          "package_name": "com.itpvt.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794720279345-8hfa4n648fagk5pku2gs8kk5u03tv041.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgSThSGfdILSRZ9D2qteKCqo8nY94SgNA"
+        },
+        {
+          "current_key": "AIzaSyBgSThSGfdILSRZ9D2qteKCqo8nY94SgNA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
